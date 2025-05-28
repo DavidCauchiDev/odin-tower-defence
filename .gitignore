@@ -1,0 +1,13 @@
+bin/
+*.exp
+*.pdb
+.cache/
+.unsaved/
+.user/
+res_workbench/audio/noct_01/Build
+.DS_Store
+sokol_*.lib
+sokol_*.a
+*.DSYM
+sokol_*.dll
+*.spall
